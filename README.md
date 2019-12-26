@@ -21,7 +21,7 @@
 
 **Scheduler which sends email to the recipients for every 2 minutes.**
 
-<img width="1114" alt="Screenshot 2019-12-26 at 11 39 57 AM" src="https://user-images.githubusercontent.com/51015931/71462091-38590a00-27d8-11ea-8509-f14f16e54666.png">
+<img width="1114" alt="Screenshot 2019-12-26 at 11 39 57 AM" src="https://user-images.githubusercontent.com/51015931/71480694-82fe7480-2820-11ea-9eed-0befa77493cd.png">
 
 **Implemented the Synchronization to insert 10 dummy records in postgresql**
 
