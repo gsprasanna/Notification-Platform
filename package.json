@@ -1,0 +1,26 @@
+{
+  "name": "notification-platform",
+  "version": "1.0.0",
+  "description": "notification platform to send email at regular interval of time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js",
+    "db-sync": "node src/sync/NotificationDbSync.js"
+  },
+  "keywords": [
+    "notification",
+    "notification",
+    "platform",
+    "email",
+    "sender"
+  ],
+  "author": "Prasanna",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-cron": "^2.0.3",
+    "nodemon": "^2.0.2",
+    "nodemailer": "^6.4.2"
+  }
+}
