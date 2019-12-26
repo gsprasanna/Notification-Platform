@@ -13,7 +13,8 @@
 - Used Sequelize ORM.
 - `<PostrgeSql>` is used for database model.
 - Implemented a notification scheduler for every 2 minutes.
-- Implemented the Synchronization to insert 10 dummy records
+- Implemented the Synchronization to insert 10 dummy records.
+- Maintain history of messages sent and recipient
 - Super lightweight.
 - Very easy to use.
 
