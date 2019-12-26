@@ -5,7 +5,6 @@
 ## CodeSandBox URL
 
 - [Notification - Platform! - Click here](https://codesandbox.io/s/notification-platform-gnl2h)
-- fork and run the project. Scheduler will start run and email send to mail id mentioned in document.
 
 ## Features
 
